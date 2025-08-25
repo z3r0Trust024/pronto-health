@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -54,12 +55,23 @@ npm run dev
 
 This project is built with:
 
+=======
+# 🚀 Pronto Health
+
+## 📌 Informations sur le projet
+Application web développée avec React et Vite, visant à fournir une base pour des solutions de gestion dans le domaine de la santé.
+
+---
+
+## ⚙️ Technologies utilisées
+>>>>>>> 3a6ad93ab65bd6a6b1994c32e63e9a07fdd3e4a8
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
 
+<<<<<<< HEAD
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/4d21adf1-ca21-4446-ad66-b08beefdc2d2) and click on Share -> Publish.
@@ -71,3 +83,24 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+=======
+---
+
+## 🛠️ Installation et exécution
+
+Assurez-vous d’avoir **Node.js** et **npm** installés sur votre machine  
+([guide d’installation avec nvm](https://github.com/nvm-sh/nvm#installing-and-updating)).
+
+```sh
+# Étape 1 : Cloner le dépôt
+git clone <URL_DU_DEPOT>
+
+# Étape 2 : Accéder au dossier du projet
+cd pronto-health
+
+# Étape 3 : Installer les dépendances
+npm install
+
+# Étape 4 : Lancer le serveur de développement
+npm run dev
+>>>>>>> 3a6ad93ab65bd6a6b1994c32e63e9a07fdd3e4a8
